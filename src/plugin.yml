@@ -1,0 +1,9 @@
+name: LuckyWars
+version: 0.1
+description: LuckyWars Minigame
+website: http://mc.nunocraft.net
+author: Dominique Wyniger
+main: net.nunocraft.LuckyWars.LuckyWars
+
+commands:
+  lw:
